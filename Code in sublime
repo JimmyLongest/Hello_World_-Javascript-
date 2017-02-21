@@ -1,2 +1,4 @@
 console.log("Hello, World!"); 
 
+The above code is what is typed into Sublime Text, saved to the computer, and run in terminal. If this code is followed 
+the response "Hello, World!" will appear when run in terminal.
